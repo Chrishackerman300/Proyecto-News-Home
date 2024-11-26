@@ -32,6 +32,8 @@ body{
     font-family: var(--font);
 }
 
+
+
 /*Responsive Design*/
 @media screen and (max-width: 768px){
     /*Header*/
